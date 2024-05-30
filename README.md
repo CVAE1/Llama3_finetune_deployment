@@ -1,7 +1,7 @@
 # Llama3_finetune_deployment
 基于 Unsloth 开源微调框架，在开源数据集上利用 LoRA 方法对其进行微调，微调后模型的中文对话性能有所提升。此外，分别以界面和 API 的形式将其部署在本地主机，其中 API 方式的部署可以供其他计算机访问。
 
-<img src="1.png"/>
+<img src="images/1.png"/>
 
 ## 安装依赖
 ``` python
